@@ -1,0 +1,71 @@
+Rank,Title,category,fuzzy_relevance,fuzzy_recency,fuzzy_affordability,fuzzy_score
+1,"Artificial Intelligence, 2e",Directly AI-related,1.0,0.75,1.0,0.9500000000000001
+2,"Artificial Intelligence, Analytics and Data Science (Vol. 1)",Directly AI-related,1.0,0.5,1.0,0.9
+3,Introduction to Artificial Intelligence: A Business Perspective,Directly AI-related,1.0,1.0,0.4359023152553124,0.8589755788138282
+4,Android Boot Camp for Developers Using Java®,Programming support,0.8,1.0,0.7179828734538535,0.8494957183634634
+5,Programming Logic & Design,Programming support,0.8,1.0,0.582429432286711,0.8156073580716777
+6,Microsoft Visual C#: Introduction to Object Oriented Programming,Programming support,0.8,1.0,0.582429432286711,0.8156073580716777
+7,Readings from Programming with Java,Programming support,0.8,1.0,0.5311132254995242,0.8027783063748811
+8,Readings From Programming with Python,Programming support,0.8,1.0,0.5311132254995242,0.8027783063748811
+9,Data Structures and Algorithms in Python,Programming support,0.8,0.5,0.8901363780526482,0.7925340945131621
+10,"Software Engineering: Concepts and Practices, 2e",Programming support,0.55,0.75,1.0,0.7700000000000001
+11,Discovering Mathematics: A Quantitative Reasoning Approach,Mathematical support,0.55,1.0,0.7838883602917857,0.7659720900729464
+12,Java Programming,Programming support,0.8,1.0,0.3406279733587059,0.7551569933396766
+13,Fundamentals of Python: First Programs,Programming support,0.8,1.0,0.3406279733587059,0.7551569933396766
+14,Programming With Microsoft Visual Basic 2019/2022,Programming support,0.8,1.0,0.3406279733587059,0.7551569933396766
+15,Web Development: Full Stack,Programming support,0.8,1.0,0.3406279733587059,0.7551569933396766
+16,Computer Science: A Structured Programming Approach in C,Programming support,0.8,1.0,0.3406279733587059,0.7551569933396766
+17,Introduction to Algorithms and Data Structures,Programming support,0.8,1.0,0.3406279733587059,0.7551569933396766
+18,JavaScript for Web Warriors,Programming support,0.8,0.75,0.5311132254995242,0.7527783063748812
+19,Readings from Programming with C++,Programming support,0.8,0.75,0.3406279733587059,0.7051569933396766
+20,Readings from Python Fundamentals,Programming support,0.8,0.5,0.5311132254995242,0.7027783063748811
+21,"Mathematics for Machine Technology, Cengage International Edition",Mathematical support,0.55,1.0,0.46520773866159215,0.6863019346653981
+22,"Precalculus: Mathematics for Calculus, International Metric Edition",Mathematical support,0.55,1.0,0.3845861084681257,0.6661465271170315
+23,"Calculus: Early Transcendental Functions, International Metric Edition",Mathematical support,0.55,1.0,0.37729146844275296,0.6643228671106883
+24,"Multivariable Calculus, International Metric Edition",Mathematical support,0.55,1.0,0.37729146844275296,0.6643228671106883
+25,"Calculus, International Metric Edition",Mathematical support,0.55,1.0,0.37729146844275296,0.6643228671106883
+26,Understanding Basic Statistics,Mathematical support,0.55,1.0,0.3406279733587059,0.6551569933396766
+27,Elementary and Intermediate Algebra,Mathematical support,0.55,1.0,0.3406279733587059,0.6551569933396766
+28,Introduction to Statistics and Data Analysis,Mathematical support,0.55,1.0,0.3406279733587059,0.6551569933396766
+29,Statistics: Learning from Data,Mathematical support,0.55,1.0,0.3406279733587059,0.6551569933396766
+30,Seeing Through Statistics,Mathematical support,0.55,1.0,0.3406279733587059,0.6551569933396766
+31,Understandable Statistics,Mathematical support,0.55,1.0,0.3406279733587059,0.6551569933396766
+32,"Differential Equations with Boundary-Value Problems, International Metric Edition",Mathematical support,0.55,1.0,0.2747224865207739,0.6386806216301936
+33,Applied Calculus,Mathematical support,0.55,1.0,0.5,0.62
+34,"Linear Algebra: A Modern Introduction, Cengage International Edition",Mathematical support,0.55,1.0,0.14652711703139865,0.6066317792578497
+35,Mind on Statistics,Mathematical support,0.55,0.75,0.3406279733587059,0.6051569933396765
+36,Finite Mathematics,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+37,Finite Mathematics and Applied Calculus,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+38,Multivariable Calculus,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+39,College Algebra,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+40,Precalculus Mathematics for Calculus,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+41,Calculus,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+42,Calculus Concepts and Contexts,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+43,Calculus of a Single Variable: Early Transcendental Functions,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+44,Algebra and Trigonometry,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+45,Differential Equations with Boundary-Value Problems,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+46,Calculus of a Single Variable,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+47,Applied Calculus,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+48,"Biocalculus: Calculus, Probability, and Statistics for the Life Sciences",Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+49,Mathematics: Journey from Basic Mathematics through Intermediate Algebra,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+50,A First Course in Differential Equations with Modeling Applications,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+51,Calculus: Early Transcendental Functions,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+52,College Algebra,Mathematical support,0.55,1.0,0.10618458610846812,0.596546146527117
+53,"Calculus, Metric Edition",Mathematical support,0.55,0.5,0.37729146844275296,0.5643228671106884
+54,"Calculus: Early Transcendentals, Metric Edition",Mathematical support,0.55,0.5,0.37729146844275296,0.5643228671106884
+55,"Multivariable Calculus, Metric Edition",Mathematical support,0.55,0.5,0.37729146844275296,0.5643228671106884
+56,"Single Variable Calculus, Metric Edition",Mathematical support,0.55,0.5,0.37729146844275296,0.5643228671106884
+57,"Single Variable Calculus: Early Transcendentals, Metric Edition",Mathematical support,0.55,0.5,0.37729146844275296,0.5643228671106884
+58,College Algebra,Mathematical support,0.55,0.75,0.10618458610846812,0.5465461465271171
+59,Precalculus with Limits,Mathematical support,0.55,0.75,0.10618458610846812,0.5465461465271171
+60,Trigonometry,Mathematical support,0.55,0.75,0.10618458610846812,0.5465461465271171
+61,Algebra & Trig,Mathematical support,0.55,0.75,0.10618458610846812,0.5465461465271171
+62,Precalculus,Mathematical support,0.55,0.75,0.10618458610846812,0.5465461465271171
+63,Trigonometry: A Right Triangle Approach,Mathematical support,0.55,0.75,0.10618458610846812,0.5465461465271171
+64,Precalculus Metric Version,Mathematical support,0.55,0.75,0.0,0.52
+65,Calculus,Mathematical support,0.55,0.5,0.10618458610846812,0.49654614652711704
+66,Calculus: Early Transcendentals,Mathematical support,0.55,0.5,0.10618458610846812,0.49654614652711704
+67,Single Variable Calculus,Mathematical support,0.55,0.5,0.10618458610846812,0.49654614652711704
+68,Multivariable Calculus,Mathematical support,0.55,0.5,0.10618458610846812,0.49654614652711704
+69,Single Variable Calculus: Early Transcendentals,Mathematical support,0.55,0.5,0.10618458610846812,0.49654614652711704
+70,Introduction Techinical Mathematics,Mathematical support,0.55,0.0,0.5,0.42000000000000004

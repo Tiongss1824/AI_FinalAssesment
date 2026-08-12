@@ -1,0 +1,9 @@
+Rank,Title,category,fuzzy_relevance,fuzzy_recency,fuzzy_affordability,fuzzy_score
+1,Security Awareness: Applying Practical Cybersecurity in Your World,Directly security-related,1.0,1.0,1.0,1.0
+2,CompTIA PenTest+ Guide to Penetration Testing,Directly security-related,1.0,1.0,0.5038329368226274,0.875958234205657
+3,Management of Cybersecurity,Directly security-related,1.0,1.0,0.5038329368226274,0.875958234205657
+4,CompTIA CySA+ Guide to Cybersecurity Analyst (CS0-003),Directly security-related,1.0,1.0,0.0,0.7500000000000001
+5,Hands-On Ethical Hacking and Network Defense,Directly security-related,1.0,1.0,0.0,0.7500000000000001
+6,CompTIA Security+ Guide to Network Security Fundamentals,Directly security-related,1.0,1.0,0.0,0.7500000000000001
+7,Principles of Incident Response & Disaster Recovery,Directly security-related,1.0,0.75,0.0,0.7000000000000001
+8,Principles of Information Security,Directly security-related,1.0,0.75,0.0,0.7000000000000001

@@ -1,0 +1,10 @@
+Rank,Title,category,fuzzy_relevance,fuzzy_recency,fuzzy_format,fuzzy_score
+1,"Cryptography and Network Security: Principles and Practice, Global Edition",Directly security-related,1.0,0.75,0.6,0.8850000000000002
+2,"Network Security Essentials: Applications and Standards, Global Edition",Directly security-related,1.0,0.0,0.6,0.6600000000000001
+3,"Computer Security: Principles and Practice, Global Edition",Directly security-related,1.0,0.0,0.6,0.6600000000000001
+4,Security in Computing,Related (title match only),0.3,1.0,1.0,0.5800000000000001
+5,"Computer Security: Principles and Practice, Global Edition",Related (title match only),0.3,1.0,1.0,0.5800000000000001
+6,"Boyle: Corporate Computer Security, Global Edition",Related (title match only),0.3,0.0,0.6,0.24000000000000002
+7,Introduction to Computer Security,Related (title match only),0.3,0.0,0.6,0.24000000000000002
+8,"Business Data Networks and Security, Global Edition",Related (title match only),0.3,0.0,0.6,0.24000000000000002
+9,Practical Cryptology and Web Security,Related (title match only),0.3,0.0,0.6,0.24000000000000002

@@ -1,0 +1,204 @@
+Rank,Title,category,fuzzy_relevance,fuzzy_recency,fuzzy_format,fuzzy_score
+1,Artificial Intelligence: A Guide to Intelligent Systems,Directly AI-related,1.0,1.0,1.0,1.0000000000000002
+2,"Artificial Intelligence: A Modern Approach, Global Edition
+",Directly AI-related,1.0,0.75,1.0,0.9250000000000002
+3,"C++ How to Program, Global Edition",Programming support,0.8,1.0,1.0,0.8800000000000001
+4,"C++ How to Program, Global Edition",Programming support,0.8,1.0,1.0,0.8800000000000001
+5,"Java Software Solutions, Foundations of Program Design, Global Edition (International eBook)",Programming support,0.8,1.0,1.0,0.8800000000000001
+6,"Starting Out with C++ from Control Structures to Objects, Global Edition (International eBook)",Programming support,0.8,1.0,1.0,0.8800000000000001
+7,"Starting out with Visual C#, Global Edition",Programming support,0.8,1.0,1.0,0.8800000000000001
+8,"Starting Out with Python, Global Edition",Programming support,0.8,1.0,1.0,0.8800000000000001
+9,"Starting Out with Java: From Control Structures through Objects, Global Edition ",Programming support,0.8,1.0,1.0,0.8800000000000001
+10,"Introduction to Java Programming and Data Structures, Global Edition",Programming support,0.8,1.0,1.0,0.8800000000000001
+11,"Objects First with Java: A Practical Introduction Using BlueJ, Global Edition",Programming support,0.8,1.0,1.0,0.8800000000000001
+12,"Introduction to Python Programming and Data Structures, Global Edition",Programming support,0.8,1.0,0.6,0.8400000000000002
+13,"Artificial Intelligence: A Modern Approach, Global Edition",Directly AI-related,1.0,0.5,0.6,0.8100000000000002
+14,"C How to Program: With Case Studies in Applications and Systems Programming, Global Edition",Programming support,0.8,0.75,0.6,0.7650000000000001
+15,"Concepts of Programming Languages, Global Edition",Programming support,0.8,0.75,0.6,0.7650000000000001
+16,"Computer Organization and Architecture, Global Edition",Programming support,0.8,0.75,0.6,0.7650000000000001
+17,"Intro to Python for Computer Science and Data Science: Learning to Program with AI, Big Data and The Cloud, Global Edition",Programming support,0.8,0.75,0.6,0.7650000000000001
+18,"Statistics: Informed Decisions Using Data, Global Edition",Mathematical support,0.55,1.0,1.0,0.7300000000000001
+19,Mathematics for Engineers,Mathematical support,0.55,1.0,1.0,0.7300000000000001
+20,"Discrete and Combinatorial Mathematics (Classic Version), Global Edition ",Mathematical support,0.55,1.0,1.0,0.7300000000000001
+21,Mathematical Analysis Volume 2,Mathematical support,0.55,1.0,1.0,0.7300000000000001
+22,Mathematical Analysis Volume 1,Mathematical support,0.55,1.0,1.0,0.7300000000000001
+23,"Data Science for All, Global Edition",Mathematical support,0.55,1.0,1.0,0.7300000000000001
+24,"Basic Business Statistics, Global Edition",Mathematical support,0.55,1.0,1.0,0.7300000000000001
+25,"Business Math, Global Edition",Mathematical support,0.55,1.0,1.0,0.7300000000000001
+26,"Calculus: Early Transcendentals, Global Edition",Mathematical support,0.55,1.0,1.0,0.7300000000000001
+27,"Elementary Statistics: Picturing the World, Global Edition",Mathematical support,0.55,1.0,1.0,0.7300000000000001
+28,"Essentials of Statistics, Global Edition",Mathematical support,0.55,1.0,1.0,0.7300000000000001
+29,"Mathematics with Applications in the Management, Natural and Social Sciences, Global Edition ",Mathematical support,0.55,1.0,0.6,0.6900000000000002
+30,"Probability and Statistical Inference, Global Edition",Mathematical support,0.55,1.0,0.6,0.6900000000000002
+31,"Thomas' Calculus, SI Units",Mathematical support,0.55,1.0,0.6,0.6900000000000002
+32,"Thomas' Calculus: Early Transcendentals, SI Units",Mathematical support,0.55,1.0,0.6,0.6900000000000002
+33,"Intro Stats, Global Edition",Mathematical support,0.55,1.0,0.6,0.6900000000000002
+34,"Intro Stats, Global Edition",Mathematical support,0.55,1.0,0.6,0.6900000000000002
+35,"Statistical Methods for the Social Sciences, Global Edition",Mathematical support,0.55,1.0,0.6,0.6900000000000002
+36,"Statistics: The Art and Science of Learning from Data, Global Edition",Mathematical support,0.55,1.0,0.6,0.6900000000000002
+37,"Business Statistics: A Decision Making Approach, Global Edition",Mathematical support,0.55,1.0,0.6,0.6900000000000002
+38,"Engineering Software Products: An Introduction to Modern Software Engineering, Global Edition",Programming support,0.8,0.5,0.6,0.6900000000000002
+39,"Precalculus, Global Edition ",Mathematical support,0.55,1.0,0.6,0.6900000000000002
+40,"Precalculus, Global Edition",Mathematical support,0.55,1.0,0.6,0.6900000000000002
+41,"Biostatistics for the Biological and Health Sciences, Global Edition",Mathematical support,0.55,1.0,0.6,0.6900000000000002
+42,"College Algebra and Trigonometry, Global Edition",Mathematical support,0.55,1.0,0.6,0.6900000000000002
+43,Computer Vision: A Modern Approach,Directly AI-related,1.0,0.0,0.6,0.6600000000000001
+44,"Visual C# How to Program, Global Edition",Programming support,0.8,0.25,0.6,0.6150000000000002
+45,"Java How To Program, Late Objects, Global Edition",Programming support,0.8,0.25,0.6,0.6150000000000002
+46,"Introduction to Analysis, Global Edition (Classic Version)",Mathematical support,0.55,0.75,0.6,0.6150000000000002
+47,"Linear Algebra and Its Applications, Global Edition",Mathematical support,0.55,0.75,0.6,0.6150000000000002
+48,"Statistics for Business and Economics, Global Edition",Mathematical support,0.55,0.75,0.6,0.6150000000000002
+49,"Statistics for Business & Economics, Global Edition",Mathematical support,0.55,0.75,0.6,0.6150000000000002
+50,"Introductory Mathematical Analysis for Business, Economics, and the Life and Social Sciences, Global Edition",Mathematical support,0.55,0.75,0.6,0.6150000000000002
+51,"Algebra and Trigonometry, Global Edition",Mathematical support,0.55,0.75,0.6,0.6150000000000002
+52,"Precalculus: Graphical, Numerical, Algebraic, Global Edition",Mathematical support,0.55,0.75,0.6,0.6150000000000002
+53,"Statistics for Managers Using Microsoft Excel, Global Edition",Mathematical support,0.55,0.5,1.0,0.5800000000000001
+54,Internet & World Wide Web: How to Program,Programming support,0.8,0.0,0.6,0.5400000000000001
+55,"Fluency With Information Technology, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+56,"Introduction to Automata Theory, Languages, and Computation",Programming support,0.8,0.0,0.6,0.5400000000000001
+57,"Fundamentals of Web Development, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+58,"Introduction to Programming Using Python, An, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+59,Data Abstraction & Problem Solving with C++,Programming support,0.8,0.0,0.6,0.5400000000000001
+60,"Computer Systems: A Programmer's Perspective, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+61,Computing with Python,Programming support,0.8,0.0,0.6,0.5400000000000001
+62,"Stats: Data and Models, Global Edition",Mathematical support,0.55,0.5,0.6,0.5400000000000001
+63,"Agile Software Development, Principles, Patterns, and Practices",Programming support,0.8,0.0,0.6,0.5400000000000001
+64,"Absolute Java, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+65,"Absolute C++, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+66,"Android: How to Program, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+67,Basics of Web Design: HTML5 & CSS3,Programming support,0.8,0.0,0.6,0.5400000000000001
+68,"Compilers: Principles, Techniques, and Tools",Programming support,0.8,0.0,0.6,0.5400000000000001
+69,"Computer Science: An Overview, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+70,"Building Java Programs: A Back to Basics Approach, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+71,Data Structures and Problem Solving Using Java,Programming support,0.8,0.0,0.6,0.5400000000000001
+72,Data Structures and Algorithm Analysis in Java,Programming support,0.8,0.0,0.6,0.5400000000000001
+73,Data Structures and Algorithms in Java,Programming support,0.8,0.0,0.6,0.5400000000000001
+74,"Art and Science of Java, The",Programming support,0.8,0.0,0.6,0.5400000000000001
+75,Starting Out with Programming Logic and Design,Programming support,0.8,0.0,0.6,0.5400000000000001
+76,"Software Engineering, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+77,"Prelude to Programming: Concepts and Design, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+78,"Business Statistics, Global Edition",Mathematical support,0.55,0.5,0.6,0.5400000000000001
+79,"Principles of Risk Management and Insurance, Global Editon",Mathematical support,0.55,0.5,0.6,0.5400000000000001
+80,Object-Oriented Game Development,Programming support,0.8,0.0,0.6,0.5400000000000001
+81,"Java: An Introduction to Problem Solving and Programming, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+82,"Object-Oriented Software Engineering Using UML, Patterns, and Java",Programming support,0.8,0.0,0.6,0.5400000000000001
+83,Java Foundations,Programming support,0.8,0.0,0.6,0.5400000000000001
+84,"Java Software Structures, International Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+85,"Problem Solving with C++, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+86,Programming the World Wide Web,Programming support,0.8,0.0,0.6,0.5400000000000001
+87,Problem Solving & Programming Concepts,Programming support,0.8,0.0,0.6,0.5400000000000001
+88,"Problem Solving and Program Design in C, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+89,Software Design e-book,Programming support,0.8,0.0,0.6,0.5400000000000001
+90,Simply Visual Basic 2010: An App-Driven Approach,Programming support,0.8,0.0,0.6,0.5400000000000001
+91,"Java How to Program, Early Objects, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+92,"Java Software Solutions, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+93,"Java Software Solutions, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+94,"Linear Algebra with Applications, Global Edition",Mathematical support,0.55,0.5,0.6,0.5400000000000001
+95,Java for Students,Programming support,0.8,0.0,0.6,0.5400000000000001
+96,"Introduction to Java Programming, Brief Version, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+97,Introduction to Programming with C++,Programming support,0.8,0.0,0.6,0.5400000000000001
+98,"Introduction to Programming with Visual Basic 2012, An",Programming support,0.8,0.0,0.6,0.5400000000000001
+99,"Introduction to Computing and Programming in Python, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+100,"Starting Out with C++: Early Objects, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+101,"Starting Out With App Inventor for Android, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+102,"Starting Out With Visual Basic, International Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+103,Using UML,Programming support,0.8,0.0,0.6,0.5400000000000001
+104,"Web Development and Design Foundations with HTML5, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+105,Visual Basic 2012 How to Program,Programming support,0.8,0.0,0.6,0.5400000000000001
+106,Structured Computer Organization,Programming support,0.8,0.0,0.6,0.5400000000000001
+107,"Practice of Computing Using Python, The, Global Edition",Programming support,0.8,0.0,0.6,0.5400000000000001
+108,Practical Cryptology and Web Security,Programming support,0.8,0.0,0.6,0.5400000000000001
+109,Modern Engineering Mathematics,Mathematical support,0.55,0.25,1.0,0.5050000000000001
+110,"Business Statistics: A First Course, Global Edition",Mathematical support,0.55,0.25,0.6,0.4650000000000001
+111,"Statistics for Managers Using Microsoft Excel, Global Edition",Mathematical support,0.55,0.25,0.6,0.4650000000000001
+112,"Introduction to Mathematical Statistics, Global Edition",Mathematical support,0.55,0.25,0.6,0.4650000000000001
+113,Modern Engineering Mathematics,Mathematical support,0.55,0.25,0.6,0.4650000000000001
+114,"Differential Equations and Linear Algebra, Global Edition",Mathematical support,0.55,0.25,0.6,0.4650000000000001
+115,"Business Analytics, Global Edition",Mathematical support,0.55,0.25,0.6,0.4650000000000001
+116,Engineering Mathematics,Mathematical support,0.55,0.0,1.0,0.4300000000000001
+117,Precalculus: Functions and Graphs,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+118,College Algebra and Trigonometry: A Unit Circle Approach,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+119,"Differential Equations and Boundary Value Problems: Computing and Modeling, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+120,"Calculus, Early Transcendentals",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+121,Probability and Statistics,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+122,Linear Algebra,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+123,Linear Algebra with Applications,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+124,"Precalculus, Pearson New International Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+125,College Algebra,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+126,"Calculus And Its Applications, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+127,Mathematical Proofs: A Transition to Advanced Mathematics,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+128,Algebra and Trigonometry,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+129,"Finite Mathematics for Business, Economics, Life Sciences and Social Sciences,Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+130,"Finite Mathematics for Business, Economics, Life Sciences, and Social Sciences, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+131,"Calculus, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+132,Algebra,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+133,"Calculus for Business, Economics, Life Sciences, and Social Sciences, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+134,"College Mathematics for Business, Economics, Life Sciences, and Social Sciences, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+135,"Statistical Methods for the Social Sciences, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+136,Differential Equations and Linear Algebra: Pearson New International Edition PDF eBook,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+137,"Business Mathematics, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+138,Engineering Mathematics,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+139,Discrete and Combinatorial Mathematics,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+140,Differential Equations and Linear Algebra,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+141,"Essential Statistics, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+142,"Calculus for the Life Sciences, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+143,"Calculus & Its Applications, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+144,"First Course in Abstract Algebra, A",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+145,Modern Elementary Statistics,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+146,Business and Economics: Global Edition,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+147,Linear Algebra and Differential Equations,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+148,"Second Course in Statistics, A: Regression Analysis",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+149,"Statistics, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+150,"Calculus with Applications, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+151,Trigonometry,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+152,Graphical Approach to Precalculus with Limits: A Unit Circle Approach,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+153,Thinking Mathematically,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+154,Research Methods,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+155,"Finite Mathematics with Applications In the Management, Natural, and Social Sciences, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+156,"Miller & Freund's Probability and Statistics for Engineers, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+157,"Probability and Statistical Inference, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+158,Advanced Modern Engineering Maths,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+159,Applied Partial Differential Equations with Fourier Series and Boundary Value Problems,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+160,Elementary Differential Equations with Boundary Value Problems,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+161,"History of Mathematics, A",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+162,Discrete Mathematics: Pearson New International Edition PDF eBook,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+163,Elementary Linear Algebra with Applications,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+164,Discrete Mathematical Structures,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+165,How to Use Statistics,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+166,Introduction to Mathematical Statistics and Its Applications,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+167,"Elementary Statistics: Picturing the World, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+168,"Elementary Statistics: Picturing the World, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+169,Analysis with an Introduction to Proof,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+170,Introduction to Behavioral Research Methods,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+171,"University Calculus: Early Transcendentals, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+172,"Discrete Mathematics, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+173,Calculus For Biology and Medicine: Pearson New International Edition,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+174,Fundamentals of Differential Equations: Pearson New International Edition ,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+175,Fundamentals of Differential Equations and Boundary Value Problems,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+176,"Fundamentals of Differential Equations, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+177,John E. Freund's Mathematical Statistics with Applications,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+178,Topology,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+179,"First Course in Statistics, A, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+180,Elementary Number Theory,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+181,"College Algebra and Trigonometry, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+182,Elementary Linear Algebra,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+183,"Statistics for the Life Sciences, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+184,Numerical Analysis,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+185,"First Course in Probability, A, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+186,"Fundamentals of Complex Analysis with Applications to Engineering, Science, and Mathematics",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+187,Statistics for Business: Decision Making and Analysis,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+188,"Visual Approach to SPSS for Windows, A: A Guide to SPSS 17.0",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+189,"Friendly Introduction to Number Theory, A",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+190,Calculus,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+191,College Algebra,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+192,Elementary Statistics: Pearson New International Edition PDF eBook,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+193,Elementary Statistics Using Excel,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+194,Precalculus Enhanced with Graphing Utilities: Pearson New International Edition,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+195,Basic Technical Mathematics with Calculus,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+196,"Probability & Statistics for Engineers & Scientists, Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+197,Essentials of Probability & Statistics for Engineers & Scientists,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+198,Introduction to Analysis,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+199,Calculus Early Transcendentals,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+200,"Introductory Statistics,  Global Edition",Mathematical support,0.55,0.0,0.6,0.39000000000000007
+201,Introduction to Graph Theory,Mathematical support,0.55,0.0,0.6,0.39000000000000007
+202,Biostatistical Analysis,Mathematical support,0.55,0.0,0.6,0.39000000000000007
