@@ -6,7 +6,12 @@
 - `run_scenarios.py` — runs the full pipeline for both fixed scenarios across all 3 datasets, prints results, saves CSVs
 - three excel files provided in Teams
 
-## Setup
-1. Download and open file in VScode
-2. (Optional) Create and activate a virtual environment:
-3. 
+## Setup (Windows)
+1. Download three excel files and three python files in this repo, put into a new folder, open the folder in vscode
+2. Use Ctrl + ` to open terminal in vscode to create virtual environment (Optional: 2, 3, 4)
+3. Type `python -m venv venv`
+4. Type `venv\Scripts\activate` to finish set up virtual environment
+5. Type `pip install pandas numpy openpyxl`
+6. Type `cd code_package`
+7. Type `python run_scenarios.py`
+8. 12 results should now appear
