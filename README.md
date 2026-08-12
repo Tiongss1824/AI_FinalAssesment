@@ -1,5 +1,11 @@
 # BTIS3043 eBook Predicate + Fuzzy Query System
 
+## About
+A predicate-logic + fuzzy-logic query system for filtering and ranking
+academic eBooks across three catalogues, built for BTIS3043 (Artificial
+Intelligence) final assessment. Combines crisp predicate queries (does a
+record match?) with fuzzy suitability scoring (how well does it match?).
+
 ## Files
 - `ebook_ai_system.py` — data loading, keyword vocab, fuzzy membership functions, aggregation
 - `predicates.py` — dataset-specific predicate (crisp) classification functions for both scenarios
@@ -18,3 +24,11 @@
 
 ## Reminder
 1. You can reference the 12 results folder I uploaded if you cannot generate results
+
+## Output
+Running `run_scenarios.py` prints predicate and fuzzy-ranked results for
+both scenarios to the terminal, and saves 12 CSV files, e.g.:
+
+| Rank | Title | Category | Score |
+|---|---|---|---|
+| 1 | Artificial Intelligence: A Guide to Intelligent Systems | Directly AI-related | 1.00 |
