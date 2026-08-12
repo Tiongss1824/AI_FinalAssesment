@@ -15,3 +15,6 @@
 6. Type `cd code_package`
 7. Type `python run_scenarios.py`
 8. 12 results should now appear
+
+## Reminder
+1. You can reference the 12 results folder I uploaded if you cannot generate results
